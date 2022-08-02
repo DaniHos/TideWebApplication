@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: TideWebApplication, Configuration: Debug Any CPU ------
+1>SpecFlowFeatureFiles: FeatureFile\SpecFlowFeature1.feature
+1>-> Using default config
+1>SpecFlowGeneratedFiles: FeatureFile\SpecFlowFeature1.feature.cs
+1>TideWebApplication -> C:\Users\mindc1may135\source\repos\TideWebApplication\TideWebApplication\bin\Debug\netcoreapp3.1\TideWebApplication.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
